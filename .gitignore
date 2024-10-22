@@ -1,0 +1,40 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Ignorar diretório .idea
+.idea/
+
+# Ignorar arquivo app.iml
+app.iml
+
+# Ignorar outros arquivos e diretórios comuns que não devem ser incluídos
+*.iml
+*.iws
+.env
